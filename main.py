@@ -36,7 +36,7 @@ However, I am moving on from this project. You may see slight refactorization in
 
 You can assume all values are HARD-CODED and needing changed. You can contact me @b0nggo on discord if you have any questions
 
-Heavy refactoring is needed for utility files, and modules. All code is non-optimized and non-async. You are welcome to fork, or request a push
+Heavy refactoring is needed for utility files, and modules. Most code is non-optimized and non-async. You are welcome to fork, or request a push
 
 
 The Roles are supposed to signify tiers in the Discord server. This project is for learning purposes only, use responsibily.
