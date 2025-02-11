@@ -38,7 +38,7 @@ The code provided is extremely unoptimized, and performance may vary
 
 ## Documentation
 
-Well, I mostly open sourced this so people could make modifications for themselves, if needed. Essentially this is meant to interact with discord to make the API calls to discord to make the crashes happen on Discord. You will need to sync the commands to whichever Discord guild you invite the bot to so the commands will appear in the server. This can be done easily, please refer to the [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/).
+I primarily open-sourced this project to allow others to modify it according to their needs. The main goal is to interact with Discord, triggering API calls that can cause crashes within the platform. To ensure the commands appear in your server, you'll need to sync them with the specific Discord guild where you invite the bot. This process is straightforward for detailed guidance, please refer to the [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/).
 
 #### Main commands/features:
 
