@@ -1,0 +1,1 @@
+Accounts are generated in this folder
