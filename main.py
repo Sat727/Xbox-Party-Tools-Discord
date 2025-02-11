@@ -89,7 +89,7 @@ def cooldown_invites(interaction: discord.Interaction, duration: int = None):
         else:
             return app_commands.Cooldown(1, 1200.0)
 
-blacklisted = (2535453581119827 , )
+blacklisted = ()
 
 whitelist = {"Moderators", "Admins"}
 
