@@ -7,7 +7,7 @@ This project is something I wanted to try my hand at, and I've seen other servic
 
 ## Requirements
 
-```python
+```bash
 https://github.com/OpenXbox/xbox-webapi-python (Xbox Open API)
 https://github.com/Rapptz/discord.py (Discord.py)
 https://github.com/OpenXbox/ms_cv (ms_cv)
