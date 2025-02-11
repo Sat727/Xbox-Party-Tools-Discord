@@ -31,10 +31,6 @@ Contributions are always welcome!
 
 
 
-## Optimizations
-
-The code provided is extremely unoptimized, and performance may vary
-
 
 ## Documentation
 
