@@ -1,7 +1,7 @@
 
 # Xbox Crasher
 
-This project is something I wanted to try my hand at, and I've seen other services such as Octosniff which has similar methods. I am going to expose these methods so that they may get fixed in the future. I enjoyed making this and the deployment of this may be VERY difficult unless you are very familiar with Python and backend development. This is solely for educational purposes only, and I am not responsible for what you choose to do with the application.
+This project is something I wanted to try my hand at, and I've seen other services such as Octosniff which have similar methods. I am going to expose these methods so that they may get fixed in the future. I enjoyed making this and the deployment of this may be VERY difficult unless you are very familiar with Python and backend development. This is solely for educational purposes only, and I am not responsible for what you choose to do with the application.
 
 
 
