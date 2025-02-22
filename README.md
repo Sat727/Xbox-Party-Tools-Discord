@@ -39,7 +39,7 @@ I primarily open-sourced this project to allow others to modify it according to 
 #### Main commands/features:
 
 - CreateLFG `Creates a looking for group post using the target game`
-- Link Account `"Links account with microsoft`
+- Link Account `Links account with microsoft`
 - Unlink Account `Not implemented`
 - Joinstate `Make party open or closed`
 - Crash Party `Crashes target's party`
