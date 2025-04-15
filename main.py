@@ -170,15 +170,15 @@ client = MyClient(intents=discord.Intents.all())
 
 
 
-@app_commands.choices(game=[
-    Choice(name='Rainbow 6 Siege', value="4c5b0100-b87d-4442-9d9b-cb81373d69b4"),
-    Choice(name='Grounded', value="00000000-0000-0000-0000-00007d7cfb3c"),
-    Choice(name='Dayz', value="6fcb0100-847a-4a22-933c-1b902e51b7c2"),
-    Choice(name="7 Days To Die", value='00000000-0000-0000-0000-0000672c8813')
-])
+#@app_commands.choices(game=[
+#    Choice(name='Rainbow 6 Siege', value="4c5b0100-b87d-4442-9d9b-cb81373d69b4"),
+#    Choice(name='Grounded', value="00000000-0000-0000-0000-00007d7cfb3c"),
+#    Choice(name='Dayz', value="6fcb0100-847a-4a22-933c-1b902e51b7c2"),
+#    Choice(name="7 Days To Die", value='00000000-0000-0000-0000-0000672c8813')
+#])
 @client.tree.command(name="createlfg",description="Create looking for group post")
 @app_commands.checks.dynamic_cooldown(cooldown_invites)
-async def createlfg(interaction:discord.Interaction, game:app_commands.Choice[str], description:str, players_needed:int=1):
+async def createlfg(interaction:discord.Interaction, game:str, description:str, players_needed:int=1):
     if players_needed > 15:
         players_needed = 15
     elif players_needed <= 0:
