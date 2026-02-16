@@ -1,3 +1,7 @@
+## Special note
+
+use (this)[https://github.com/Sat727/xbox-webapi-python] forked version of Xbox webapi for functional SISU authentication. 
+
 
 # Xbox Crasher
 
